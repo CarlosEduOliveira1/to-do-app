@@ -1,0 +1,24 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "Make to-do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosEduOliveira1/to-do-app.git"
+  },
+  "author": "Carlos Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosEduOliveira1/to-do-app/issues"
+  },
+  "homepage": "https://github.com/CarlosEduOliveira1/to-do-app#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
